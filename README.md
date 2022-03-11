@@ -39,7 +39,7 @@ $ git clone git@github.com:KingOfSpades/JiraToThings3.git
 My first tip is to create a directory to save your config's to. I chose `~/.jira2things` for this. You can create a config by using the `--config-file=PATH_TO_FILE` command, like:
 
 ```bash
-$ /Users/USERNAME/JiraToThings3/jira-to-things3 --config-file=/Users/USERNAME/.jira2things/getTickets.yml
+$ /Users/USERNAME/JiraToThings3/jira-to-things3 --config-file=/Users/USERNAME/.jira2things/getTickets.yml -C
 ```
 
 This will look like this:
